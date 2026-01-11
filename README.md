@@ -12,7 +12,7 @@ A sleek, terminal-based system monitor crafted in C++, providing a real-time gli
 
 ---
 
-## 🚀 About The Project
+## About The Project
 
 This system monitor is a C++ application that leverages the `ncurses` library to create a dynamic and responsive terminal interface. It reads directly from the `/proc` filesystem to gather and display live data about your system's performance.
 
@@ -77,7 +77,7 @@ You'll need `g++`, `make`, `cmake`, and the `ncurses` development library instal
     ../results/monitor
     ```
 
-## 📖 Usage
+## Usage
 
 Simply run the compiled executable from your terminal. The display will refresh automatically every second.
 
@@ -87,7 +87,7 @@ Simply run the compiled executable from your terminal. The display will refresh 
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 *   The developers of `htop` for the inspiration.
 *   The `ncurses` library for enabling rich terminal interfaces.
