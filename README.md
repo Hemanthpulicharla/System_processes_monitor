@@ -8,7 +8,7 @@
 
 A sleek, terminal-based system monitor crafted in C++, providing a real-time glimpse into your Linux system's inner workings. Inspired by classic tools like `htop`, this project offers a lightweight and efficient way to track system resources.
 
-![demo](https://i.imgur.com/YOUR_GIF_HERE.gif) 
+![demo](./system_monitor_UI.gif) 
 
 ---
 
